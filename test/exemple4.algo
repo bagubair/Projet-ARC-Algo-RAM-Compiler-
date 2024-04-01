@@ -1,0 +1,18 @@
+//foction sans param
+ALGO selection( )
+DEBUT
+     RENVOYER 5+9
+FIN
+
+PROGRAMME()
+//testcomentair
+VAR  taille ,i  , momo
+DEBUT
+
+
+
+     momo <- selection()
+
+     ECRIRE(momo)
+
+FIN

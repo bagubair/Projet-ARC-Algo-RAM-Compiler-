@@ -1,0 +1,14 @@
+//example FOCTION 3 PARAM
+ALGO Selection( m, n, i )
+DEBUT
+//L_inst
+FIN
+
+PROGRAMME()
+VAR taille, @T
+VAR i , buf<-3 ,k<-4,s<-5
+DEBUT
+
+	   buf <- Selection(k,buf, s)
+
+FIN
